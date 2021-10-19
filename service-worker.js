@@ -15,7 +15,7 @@ const FILES_STATIC = [
     'imgs/fundo_giz_2.jpeg',
     'imgs/fundo_giz_3.jpeg',
     'imgs/fundo_giz.jpeg',    
-    'imgs/icon.jpg',
+    'imgs/icon.png',
     'imgs/loading2.gif', 
     'imgs/offline.png',   
     'js/bootstrap.bundle.min.js',
