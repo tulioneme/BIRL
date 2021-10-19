@@ -1,13 +1,13 @@
 [
   {
-    "imagem": "./imgs/frango-maromba.png",
+    "imagem": "./imgs/frango-maromba.jpg",
     "cafe": "Frango Arroz Ervilha",
     "descricao": "Nada de mais, rapinho ta pronto.",
     "metodos": [
       {
         "id": "1",
-        "descricao": "#BIRL",
-        "marca": "PRA FICAR GRANDE",
+        "descricao": "PRA FICAR GRANDE",
+        "marca": "#BIRL",
         "receitas": [
           {
             "receita": "300g frango"
@@ -22,8 +22,8 @@
       },
       {
         "id": "2",
-        "descricao": "#BIRL",
-        "marca": "PRA MANTER",
+        "descricao": "PRA MANTER",
+        "marca": "#BIRL",
         "receitas": [
           {
             "receita": "200g frango"
@@ -38,8 +38,8 @@
       },
       {
         "id": "3",
-        "descricao": "#BIRL",
-        "marca": "PRA SECAR",
+        "descricao": "PRA SECAR",
+        "marca": "#BIRL",
         "receitas": [
           {
             "receita": "200g frango"
@@ -55,14 +55,14 @@
     ]
   },
   {
-    "imagem": "./imgs/peixe-maromba.png",
+    "imagem": "./imgs/peixe-maromba.jpg",
     "cafe": "Peixe Arroz Brocolis",
     "descricao": "Nada de mais tambem, rapinho ta pronto tambem.",
     "metodos": [
       {
         "id": "1",
-        "descricao": "#BIRL",
-        "marca": "PRA FICAR GRANDE",
+        "descricao": "PRA FICAR GRANDE",
+        "marca": "#BIRL",
         "receitas": [
           {
             "receita": "300g peixe"
@@ -80,8 +80,8 @@
       },
       {
         "id": "2",
-        "descricao": "#BIRL",
-        "marca": "PRA MANTER",
+        "descricao": "PRA MANTER",
+        "marca": "#BIRL",
         "receitas": [
           {
             "receita": "200g peixe"
@@ -99,8 +99,8 @@
       },
       {
         "id": "3",
-        "descricao": "#BIRL",
-        "marca": "PRA SECAR",
+        "descricao": "PRA SECAR",
+        "marca": "#BIRL",
         "receitas": [
           {
             "receita": "200g peixe"
@@ -119,14 +119,14 @@
     ]
   },
   {
-    "imagem": "./imgs/mouse-maromba.png",
+    "imagem": "./imgs/mouse-maromba.jpg",
     "cafe": "Mouse para sobremesa",
     "descricao": "Sobremesazinha para tirar aquele apetite né.",
     "metodos": [
       {
         "id": "1",
-        "descricao": "#BIRL",
-        "marca": "PRA FICAR GRANDE",
+        "descricao": "PRA FICAR GRANDE",
+        "marca": "#BIRL",
         "receitas": [
           {
             "receita": "WHEYZÃO CABULOSO PROTEINADO"
