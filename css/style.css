@@ -1,0 +1,104 @@
+@font-face {
+	font-family: 'Drawing Guides';
+	src: local('Drawing Guides'), url('../font/drawing_guides/Drawing_Guides.ttf') format('ttf')
+}
+@font-face {
+    font-family: 'Made With B';    
+    src: local('Made With B'), url('../font/made_with_b/NoLicense_MadeWithB.woff') format('woff');
+}
+@font-face {
+	font-family: 'Urban';
+	src: local('Urban'), url('../font/urban_sketch/Urban.ttf') format('ttf')
+}
+
+header{
+    background:url('../imgs/bg.jpeg');
+    background-size: cover;
+    height: 100px;
+    font-family: 'Made With B', sans-serif;
+    color: aliceblue;
+}
+.logo{
+    width: 260px;
+    height: 110px; 
+    margin-top: -9px; 
+    border: 1px solid #FFF;
+}
+main{
+    background: url('../imgs/bg2.png');
+    margin-top: 100px;
+    margin-bottom: 60px;    
+    background-size: 60px;
+    min-height: 78vh;
+}
+footer{
+    background:url('../imgs/bg.jpeg');
+    height: 50px;
+}
+.btn{
+    margin-top: 7px;
+}
+.card{
+    margin: auto;
+    margin-top: 30px;    
+}
+.coffee-img{
+    width: 100px;
+    height: 100px;
+    float: center;
+}
+.card-body {
+    text-align: center;
+}
+
+.coffee-title{
+    text-align: center;
+}
+.coffee-description{
+    text-align: justify;
+}
+.modal-content-theme{
+    background-color: #242424;
+    color: white;
+}
+.card-header-theme{
+    background:url('../imgs/bg.jpeg');
+}
+.btn-theme{
+    color: white;
+    background:url('../imgs/bg.jpeg');
+    margin: 0;
+    background-size: cover;    
+    font-family: 'Made With B'; 
+    font-size: x-large; 
+    text-align: center;
+}
+.btn-theme:hover, .btn-theme:active, .btn-theme:visited{
+    margin: 0;
+    color: white;
+    background:url('../imgs/bg.jpeg');
+    background-size: cover;    
+    font-family: 'Made With B'; 
+    font-size: x-large;   
+	border: 2px solid white;
+}
+.card-body-theme{
+    color: white;
+    background:url('../imgs/bg.jpeg');
+    background-size: cover;   
+    font-family: 'Made With B';  
+    min-width: 100%;
+    max-width: 100%;
+}
+.list-group-item-theme{
+    color: white;
+    background:url('../imgs/bg.jpeg');
+    background-size: cover;
+    border: 1px solid white;
+    font-family: 'Urban';
+    text-align: justify;
+}
+
+.btn-install{
+    margin-left: 10px;
+}

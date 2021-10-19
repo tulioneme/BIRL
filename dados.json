@@ -1,0 +1,144 @@
+[
+  {
+    "imagem": "./imgs/frango-maromba.png",
+    "cafe": "Frango Arroz Ervilha",
+    "descricao": "Nada de mais, rapinho ta pronto.",
+    "metodos": [
+      {
+        "id": "1",
+        "descricao": "#BIRL",
+        "marca": "PRA FICAR GRANDE",
+        "receitas": [
+          {
+            "receita": "300g frango"
+          },
+          {
+            "receita": "200g arroz"
+          },
+          {
+            "receita": "50g ervilha"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "descricao": "#BIRL",
+        "marca": "PRA MANTER",
+        "receitas": [
+          {
+            "receita": "200g frango"
+          },
+          {
+            "receita": "100g arroz"
+          },
+          {
+            "receita": "50g ervilha"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "descricao": "#BIRL",
+        "marca": "PRA SECAR",
+        "receitas": [
+          {
+            "receita": "200g frango"
+          },
+          {
+            "receita": "50g arroz"
+          },
+          {
+            "receita": "25g ervilha"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "imagem": "./imgs/peixe-maromba.png",
+    "cafe": "Peixe Arroz Brocolis",
+    "descricao": "Nada de mais tambem, rapinho ta pronto tambem.",
+    "metodos": [
+      {
+        "id": "1",
+        "descricao": "#BIRL",
+        "marca": "PRA FICAR GRANDE",
+        "receitas": [
+          {
+            "receita": "300g peixe"
+          },
+          {
+            "receita": "100g arroz"
+          },
+          {
+            "receita": "100g brocolis"
+          },
+          {
+            "receita": "2g azeite"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "descricao": "#BIRL",
+        "marca": "PRA MANTER",
+        "receitas": [
+          {
+            "receita": "200g peixe"
+          },
+          {
+            "receita": "100g arroz"
+          },
+          {
+            "receita": "50g brocolis"
+          },
+          {
+            "receita": "2g azeite"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "descricao": "#BIRL",
+        "marca": "PRA SECAR",
+        "receitas": [
+          {
+            "receita": "200g peixe"
+          },
+          {
+            "receita": "50g arroz"
+          },
+          {
+            "receita": "25g brocolis"
+          },
+          {
+            "receita": "2g azeite"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "imagem": "./imgs/mouse-maromba.png",
+    "cafe": "Mouse para sobremesa",
+    "descricao": "Sobremesazinha para tirar aquele apetite né.",
+    "metodos": [
+      {
+        "id": "1",
+        "descricao": "#BIRL",
+        "marca": "PRA FICAR GRANDE",
+        "receitas": [
+          {
+            "receita": "WHEYZÃO CABULOSO PROTEINADO"
+          },
+          {
+            "receita": "Leite de soja líquido"
+          },
+          {
+            "receita": "Claras de ovos"
+          }
+        ]
+      }
+    ]
+  }
+]

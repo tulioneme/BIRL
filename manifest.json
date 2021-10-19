@@ -1,0 +1,13 @@
+{
+"name": "BIRL - App",
+"short_name": "#BIRL",
+"icons": [{
+  "src": "icons/129.png",
+  "sizes": "128x128",
+  "type": "image/png"
+}],
+"start_url": "index.html",
+"display": "standalone",
+"background_color": "#242424",
+"theme_color": "#242424"
+}
